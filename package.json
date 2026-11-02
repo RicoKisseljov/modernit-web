@@ -4,5 +4,8 @@
   "type": "module",
   "scripts": {
     "analysoi": "node analysoi.js varausloki.log --json raportti.json"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
   }
 }

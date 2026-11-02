@@ -1,0 +1,22 @@
+{
+  "tilat": [
+    {
+      "id": "tila1",
+      "nimi": "Kokoustila",
+      "aukiolo": {
+        "alku": "08:00",
+        "loppu": "15:00"
+      }
+    },
+    {
+      "id": "tila2",
+      "nimi": "Luokkatila",
+      "aukiolo": {
+        "alku": "08:00",
+        "loppu": "16:00"
+      }
+    }
+  ],
+  "varaukset": []
+}
+
